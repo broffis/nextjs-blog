@@ -24,7 +24,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hi, I'm Brandon Roffis and this is my attempt at learning and understanding Next.js and TypeScript following the tutorial found on <a href="https://www.nextjs.org"> the next js site</a>
+          Hi, I'm Brandon Roffis and this is my attempt at learning and understanding Next.js following the tutorial found on <a href="https://www.nextjs.org"> the next js site</a>
         </p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
